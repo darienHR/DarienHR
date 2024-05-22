@@ -1,16 +1,13 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 🖤
+Meu nome é Darien Hernandez
+- Estou estudando no alura
+- Estou me desenvolvendo na linguagem javaScript
+- Utilizo esse espaço para postar meus projetos desenvolvidos
+- Sou cubano raiz 🤙
 
-<!--
-**darienHR/DarienHR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ### Você entrar em contato comigo 📫
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  darienA.hernandez15@gmail.com
+  
+  @DarienHR
+  
